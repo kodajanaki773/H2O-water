@@ -1,0 +1,38 @@
+
+AQUAPURE - H2O WATER WEBSITE
+============================
+
+PROJECT DESCRIPTION
+AquaPure is a five-page educational website about water,
+water conservation, natural water sources, and purification.
+
+TECHNOLOGIES
+1. HTML5
+2. CSS3
+3. JavaScript
+4. Visual Studio Code
+5. Live Server
+
+PROJECT FILES
+index.html       - Home page
+about.html       - About Us page
+water.html       - Water Information page
+purification.html - Water Purification page
+gallery.html     - Water Image Gallery
+style.css        - Shared website styling
+script.js        - Mobile navigation
+README.txt       - Project instructions
+
+HOW TO RUN
+1. Open Visual Studio Code.
+2. Open the AquaPure-Water-Website folder.
+3. Ensure all eight files are inside the folder.
+4. Install the Live Server extension.
+5. Right-click index.html.
+6. Select Open with Live Server.
+7. Use the navigation menu to visit all five pages.
+
+IMPORTANT
+Internet access is required for the online images and Google Fonts.
+The website is a frontend educational project. It does not provide
+water testing, purification equipment, or a real water safety service.
